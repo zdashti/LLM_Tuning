@@ -1,7 +1,7 @@
 # LLM_Tuning
 
-# qwen_dpo_preference_tuning.ipynb
-# Qwen DPO Fine-Tuning and Evaluation
+
+# Qwen DPO Fine-Tuning and Evaluation: qwen_dpo_preference_tuning.ipynb
 
 This Jupyter Notebook demonstrates how to fine-tune the **Qwen2.5-0.5B-Instruct** model using **Direct Preference Optimization (DPO)** on the **Intel/Orca DPO Pairs** dataset.  
 The notebook includes:
