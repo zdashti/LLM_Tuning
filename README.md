@@ -13,7 +13,7 @@ The notebook includes:
 This project aims to explore preference-based alignment techniques for small instruction-tuned models.
 
 
-#QLoRA Fine-tuning on CNN/DailyMail
+# QLoRA Fine-tuning on CNN/DailyMail
 
 This project fine-tunes a TinyLlama (1.1B) language model using QLoRA (PEFT, 4-bit quantization) on the CNN/DailyMail dataset for news summarization (highlights generation).
 It includes:
